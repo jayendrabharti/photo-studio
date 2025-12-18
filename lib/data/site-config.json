@@ -1,0 +1,36 @@
+{
+  "siteName": "Aperture Studio",
+  "tagline": "Capturing Life's Most Beautiful Moments",
+  "description": "Professional photography services specializing in weddings, portraits, commercial work, and special events. Based in the heart of the city, serving clients worldwide.",
+  "email": "hello@aperturestudio.com",
+  "phone": "+1 (555) 123-4567",
+  "address": "123 Photography Lane, Creative District, NY 10001",
+  "social": {
+    "instagram": "https://instagram.com/aperturestudio",
+    "facebook": "https://facebook.com/aperturestudio",
+    "twitter": "https://twitter.com/aperturestudio",
+    "pinterest": "https://pinterest.com/aperturestudio"
+  },
+  "about": {
+    "shortBio": "Award-winning photography studio with over 10 years of experience capturing authentic moments and creating stunning visual stories.",
+    "fullBio": "Aperture Studio was founded in 2014 with a simple mission: to capture authentic, beautiful moments that tell compelling stories. What started as a solo venture has grown into a full-service photography studio with a team of talented photographers and creative professionals.\n\nOur approach combines technical excellence with artistic vision. We believe that great photography isn't just about having the best equipment—it's about understanding light, composition, and most importantly, connecting with people. Whether we're documenting a wedding, creating portraits, or shooting for commercial clients, we bring the same level of passion and professionalism to every project.\n\nOver the years, we've had the privilege of working with hundreds of clients, from couples celebrating their wedding day to Fortune 500 companies needing commercial photography. We've been featured in numerous publications and have won several industry awards, but what we're most proud of is the relationships we've built and the trust our clients place in us.\n\nBased in New York City but available for travel worldwide, we're ready to help you tell your story through beautiful, timeless images.",
+    "photographer": {
+      "name": "Alex Morgan",
+      "title": "Founder & Lead Photographer",
+      "bio": "Alex has been passionate about photography since receiving their first camera at age 12. After studying Fine Arts and working as an assistant to renowned photographers, Alex founded Aperture Studio to pursue a vision of authentic, artistic photography.",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+      "credentials": [
+        "Master Photographer, PPA",
+        "Featured in National Geographic",
+        "10+ Years Professional Experience",
+        "International Wedding Photography Award Winner"
+      ]
+    }
+  },
+  "stats": {
+    "yearsExperience": "10+",
+    "happyClients": "500+",
+    "projectsCompleted": "1000+",
+    "awardsWon": "15+"
+  }
+}

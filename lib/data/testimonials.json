@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Emily & David Richardson",
+    "service": "Wedding Photography",
+    "rating": 5,
+    "text": "Absolutely incredible! They captured every moment perfectly and made us feel so comfortable throughout our wedding day. The photos are stunning and we'll treasure them forever.",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop",
+    "date": "2024-11-05"
+  },
+  {
+    "id": "2",
+    "name": "Marcus Thompson",
+    "service": "Corporate Headshots",
+    "rating": 5,
+    "text": "Professional, efficient, and the results exceeded our expectations. The entire team loved their headshots and we've already booked another session for new hires.",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop",
+    "date": "2024-10-18"
+  },
+  {
+    "id": "3",
+    "name": "Sarah Martinez",
+    "service": "Family Photography",
+    "rating": 5,
+    "text": "They have such a gift for capturing genuine moments. Our family photos are beautiful and natural - not stiff or posed. Highly recommend for anyone looking for authentic family memories.",
+    "avatar": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=100&h=100&fit=crop",
+    "date": "2024-09-22"
+  },
+  {
+    "id": "4",
+    "name": "James Park",
+    "service": "Product Photography",
+    "rating": 5,
+    "text": "The product photos transformed our e-commerce store. Sales increased significantly after updating our images. Worth every penny and more!",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+    "date": "2024-11-12"
+  },
+  {
+    "id": "5",
+    "name": "Lisa Chen",
+    "service": "Portrait Photography",
+    "rating": 5,
+    "text": "I was nervous about my photo session but they made me feel like a model! The lighting, poses, and final edits are all magazine-quality. I love my new professional headshots.",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&h=100&fit=crop",
+    "date": "2024-10-30"
+  },
+  {
+    "id": "6",
+    "name": "Robert & Amanda Wilson",
+    "service": "Maternity Photography",
+    "rating": 5,
+    "text": "Such a beautiful experience! They captured this special time in our lives with such artistry and care. The photos are absolutely breathtaking.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop",
+    "date": "2024-08-15"
+  }
+]
